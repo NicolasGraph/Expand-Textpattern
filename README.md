@@ -121,7 +121,7 @@ Answers are plugins or tips.
 ### Add
 
 * How to export front-end themes as flat files? [jcr_export_txp_templates](https://github.com/jools-r/jcr_export_txp_templates).
-* …manage front-end themes via flat files? [rah_flat](https://github.com/NicolasGraph/rah_flat).
+* How to manage front-end themes via flat files? [rah_flat](https://github.com/NicolasGraph/rah_flat).
 
 ## Users
 
