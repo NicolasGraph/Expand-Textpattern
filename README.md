@@ -16,6 +16,7 @@ Answers are plugins or tips.
 * [Pagination](#pagination)
 * [Performances](#performances)
 * [Plugin dev](#plugin dev)
+* [Social](#social)
 * [SEO](#seo)
 * [Search](#search)
 * [Themes](#themes)
@@ -31,7 +32,7 @@ Answers are plugins or tips.
 
 ## Categories
 
-* How to use clean/SEO friendly catrgory URL's? [jakob's tip](http://forum.textpattern.com/viewtopic.php?pid=301000#p301000).
+* How to use clean/SEO friendly category URL's? [jakob's tip](http://forum.textpattern.com/viewtopic.php?pid=301000#p301000).
 * How to manage more than two article categories? [smd_tags](https://github.com/Bloke/smd_tags).
 
 ## Cookies
@@ -61,9 +62,9 @@ Answers are plugins or tips.
 
 * How to embed an Instagram gallery? [etc_query](http://www.iut-fbleau.fr/projet/etc/index.php?id=3), [oui_instagram](https://github.com/nicolasGraph/oui_instagram)
 * How to embed anything? [oui_embed](https://github.com/nicolasGraph/oui_cookie).
-* How to embed a configurable video or music player? [arc_vimeo](https://github.com/drmonkeyninja/arc_vimeo), [arc_youtube](https://github.com/drmonkeyninja/arc_youtube), [oui_player](https://github.com/nicolasGraph/oui_player).
-* How to embed a Video or music player? [etc_query](http://www.iut-fbleau.fr/projet/etc/index.php?id=3), [arc_vimeo](https://github.com/drmonkeyninja/arc_vimeo), [arc_youtube](https://github.com/drmonkeyninja/arc_youtube), [oui_embed](https://github.com/nicolasGraph/oui_embed), [oui_player](https://github.com/nicolasGraph/oui_player).
-* How to embed quotes? [etc_query](http://www.iut-fbleau.fr/projet/etc/index.php?id=3), [oui_quote](https://github.com/nicolasGraph/oui_quote)
+* How to embed a configurable video or music player from an ID or an URL? [arc_vimeo](https://github.com/drmonkeyninja/arc_vimeo), [arc_youtube](https://github.com/drmonkeyninja/arc_youtube), [oui_player](https://github.com/nicolasGraph/oui_player).
+* How to embed a video or music player from an ID or an URL? [etc_query](http://www.iut-fbleau.fr/projet/etc/index.php?id=3), [arc_vimeo](https://github.com/drmonkeyninja/arc_vimeo), [arc_youtube](https://github.com/drmonkeyninja/arc_youtube), [oui_embed](https://github.com/nicolasGraph/oui_embed), [oui_player](https://github.com/nicolasGraph/oui_player).
+* How to pull/embed a quote? [etc_query](http://www.iut-fbleau.fr/projet/etc/index.php?id=3), [oui_quote](https://github.com/nicolasGraph/oui_quote)
 
 ## Forms
 
@@ -75,6 +76,7 @@ Answers are plugins or tips.
 
 * How to create and manage multiple image thumbnails? [smd_thumbnail](https://github.com/Bloke/smd_thumbnail).
 * How to use clean SEO friendly image URL's? [maniqui's tip](http://forum.textpattern.com/viewtopic.php?pid=288593#p288593).
+* How to use Textile in image captions? [upm_textile](http://forum.textpattern.com/viewtopic.php?id=17160), [smd_wrap](http://stefdawson.com/sw/plugins/smd_wrap)
 
 ### Enhance
 
@@ -104,13 +106,20 @@ Answers are plugins or tips.
 
 ## Performances
 
-* How to increase my website performances? [aks_cache](http://makss.uaho.net/plugins/aks_cache), [aks_header](http://makss.uaho.net/plugins/aks_header), [pat_speeder](http://pat-speeder.cara-tm.com/fr), [rvm_css](https://vanmelick.com/txp/).
+* How to compress my code to make it light and fast? [aks_header](http://makss.uaho.net/plugins/aks_header), [pat_speeder](http://pat-speeder.cara-tm.com/fr).
+* How to cache some dynamic contents? [aks_cache](http://makss.uaho.net/plugins/aks_cache).
+* How to increase CSS loading? [rvm_css](https://vanmelick.com/txp/).
+
+## Social
+
+* How to add sharing links/buttons to articles? [arc_social_share](https://github.com/drmonkeyninja/arc_social_share), [pat_article_social](http://pat-article-social.cara-tm.com/fr).
 
 ## SEO
 
 #### Enhance
 
 * How to adds more Metadatas? [arc_meta](https://github.com/drmonkeyninja/arc_meta).
+* How to use clean/SEO friendly category URL's? [jakob's tip](http://forum.textpattern.com/viewtopic.php?pid=301000#p301000).
 * How to use clean SEO friendly image URL's? [maniqui's tip](http://forum.textpattern.com/viewtopic.php?pid=288593#p288593).
 
 ## Search
