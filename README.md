@@ -24,12 +24,15 @@ Answers are plugins or tips.
 
 ## Articles
 
+* How to display a popular articles list? [smd_lately](http://stefdawson.com/sw/plugins/smd_lately).
+* How to display the last viewed article(s)? [oui_cookie](https://github.com/nicolasGraph/oui_cookie), [smd_lately](http://stefdawson.com/sw/plugins/smd_lately).
 * How to manage featured articles? [smd_featured](http://stefdawson.com/sw/plugins/smd_featured).
 * How to sort articles from the front-end? [oui_cookie](https://github.com/nicolasGraph/oui_cookie).
 
 ## Categories
 
 * How to use clean/SEO friendly catrgory URL's? [jakob's tip](http://forum.textpattern.com/viewtopic.php?pid=301000#p301000).
+* How to manage more than two article categories? [smd_tags](https://github.com/Bloke/smd_tags).
 
 ## Cookies
 
@@ -50,7 +53,7 @@ Answers are plugins or tips.
 
 ### Add
 
-* How to create virtual Txp tags? [smd_macro](https://github.com/Bloke/smd_macro).
+* How to create custom virtual Txp tags? [smd_macro](https://github.com/Bloke/smd_macro).
 * How to manipulate a section page name? [oui_page](https://github.com/nicolasGraph/oui_page).
 * How to test any condition? [smd_if](http://stefdawson.com/sw/plugins/smd_if).
 
