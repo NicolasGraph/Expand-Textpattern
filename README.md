@@ -79,7 +79,7 @@ Answers are plugins or tips.
 
 ## Links
 
-* Add links to my Txp Links tab via bookmarking - [Marc Carson's tip](http://textpattern.tips/creating-a-custom-bookmarklet-to-grow-your-link-collection).
+* Add links to the admin *Contents > Links* tab via bookmarking - [Marc Carson's tip](http://textpattern.tips/creating-a-custom-bookmarklet-to-grow-your-link-collection).
 
 ## Pagination
 
