@@ -120,6 +120,4 @@ Answers are plugins or tips.
 
 ## Variables
 
-## Add
-
 * Manage variables via the admin interface - [adi_variables](http://www.greatoceanmedia.com.au/txp/?plugin=adi_variables), [rah_flat](https://github.com/NicolasGraph/rah_flat).
