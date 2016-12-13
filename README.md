@@ -1,6 +1,6 @@
-# Textpattern how to…
+# Expand Textpattern
 
-Answers are plugins or tips.
+Textpattern tips and plugins for your needs.
 
 * [Articles](#articles)
 * [Categories](#categories)
@@ -11,7 +11,7 @@ Answers are plugins or tips.
 * [Embedding](#embedding)
 * [Forms](#forms)
 * [Images](#images)
-* [Lang](#lang)
+* [Languages](#languages)
 * [Links](#links)
 * [Pagination](#pagination)
 * [Performances](#performances)
@@ -27,18 +27,18 @@ Answers are plugins or tips.
 
 * Display a popular articles list - [smd_lately](http://stefdawson.com/sw/plugins/smd_lately).
 * Display the last viewed article(s) - [oui_cookie](https://github.com/nicolasGraph/oui_cookie), [smd_lately](http://stefdawson.com/sw/plugins/smd_lately).
-* Manage featured articles - [smd_featured](http://stefdawson.com/sw/plugins/smd_featured).
-* Sort articles from the front-end - [oui_cookie](https://github.com/nicolasGraph/oui_cookie).
+* Manage and display featured articles - [smd_featured](http://stefdawson.com/sw/plugins/smd_featured).
+* Sort articles from the frontend - [oui_cookie](https://github.com/nicolasGraph/oui_cookie).
 
 ## Categories
 
-* Use clean/SEO friendly category URL's - [jakob's tip](http://forum.textpattern.com/viewtopic.php?pid=301000#p301000).
-* Manage more than two article categories - [smd_tags](https://github.com/Bloke/smd_tags).
+* Use clean SEO friendly categories URL's - [jakob's tip](http://forum.textpattern.com/viewtopic.php?pid=301000#p301000).
+* Use unlimited tags - [smd_tags](https://github.com/Bloke/smd_tags).
 
 ## Cookies
 
-* Create a cookie warning message - [oui_cookie](https://github.com/nicolasGraph/oui_cookie).
-* Create and manage cookies - [oui_cookie](https://github.com/nicolasGraph/oui_cookie).
+* Create an EU cookie warning message - [oui_cookie](https://github.com/nicolasGraph/oui_cookie).
+* Manage cookies - [oui_cookie](https://github.com/nicolasGraph/oui_cookie).
 
 ## Comments
 
@@ -51,13 +51,13 @@ Answers are plugins or tips.
 ## Dev
 
 * Create custom virtual Txp tags -  [smd_macro](https://github.com/Bloke/smd_macro).
-* Manipulate a section page name -  [oui_page](https://github.com/nicolasGraph/oui_page).
+* Manipulate Txp pages names -  [oui_page](https://github.com/nicolasGraph/oui_page).
 * Test any condition -  [smd_if](http://stefdawson.com/sw/plugins/smd_if).
 
 ## Embedding
 
 * Embed an Instagram gallery -  [etc_query](http://www.iut-fbleau.fr/projet/etc/index.php?id=3), [oui_instagram](https://github.com/nicolasGraph/oui_instagram)
-* Embed anything - [oui_embed](https://github.com/nicolasGraph/oui_cookie).
+* Embed anything - [oui_embed](https://github.com/nicolasGraph/oui_embed).
 * Embed a configurable video or music player from an ID or an URL -  [arc_vimeo](https://github.com/drmonkeyninja/arc_vimeo), [arc_youtube](https://github.com/drmonkeyninja/arc_youtube), [oui_player](https://github.com/nicolasGraph/oui_player).
 * Embed a video or music player from an ID or an URL -  [etc_query](http://www.iut-fbleau.fr/projet/etc/index.php?id=3), [arc_vimeo](https://github.com/drmonkeyninja/arc_vimeo), [arc_youtube](https://github.com/drmonkeyninja/arc_youtube), [oui_embed](https://github.com/nicolasGraph/oui_embed), [oui_player](https://github.com/nicolasGraph/oui_player).
 * Pull/embed a quote -  [etc_query](http://www.iut-fbleau.fr/projet/etc/index.php?id=3), [oui_quote](https://github.com/nicolasGraph/oui_quote)
@@ -70,10 +70,10 @@ Answers are plugins or tips.
 
 * Enhance article images management -  [smd_imagery](https://github.com/Bloke/smd_imagery).
 * Manage multiple image thumbnails - [smd_thumbnail](https://github.com/Bloke/smd_thumbnail).
-* Use clean SEO friendly image URL's -  [maniqui's tip](http://forum.textpattern.com/viewtopic.php?pid=288593#p288593).
+* Use clean SEO friendly images URL's -  [maniqui's tip](http://forum.textpattern.com/viewtopic.php?pid=288593#p288593).
 * Use Textile in image captions -  [upm_textile](http://forum.textpattern.com/viewtopic.php?id=17160), [smd_wrap](http://stefdawson.com/sw/plugins/smd_wrap)
 
-## Lang
+## Languages
 
 * Build a multi-lingual website - [MLP](https://github.com/Bloke/MLP).
 
@@ -91,7 +91,7 @@ Answers are plugins or tips.
 
 ## Performances
 
-* Compress code to make it light and fast - [aks_header](http://makss.uaho.net/plugins/aks_header), [pat_speeder](http://pat-speeder.cara-tm.com/fr).
+* Compress code to speed it up - [aks_header](http://makss.uaho.net/plugins/aks_header), [pat_speeder](http://pat-speeder.cara-tm.com/fr).
 * Cache some dynamic contents - [aks_cache](http://makss.uaho.net/plugins/aks_cache).
 * Increase CSS loading time - [rvm_css](https://vanmelick.com/txp/).
 
@@ -102,8 +102,8 @@ Answers are plugins or tips.
 ## SEO
 
 * Adds more Metadatas - [arc_meta](https://github.com/drmonkeyninja/arc_meta).
-* Use clean/SEO friendly category URL's - [jakob's tip](http://forum.textpattern.com/viewtopic.php?pid=301000#p301000).
-* Use clean SEO friendly image URL's - [maniqui's tip](http://forum.textpattern.com/viewtopic.php?pid=288593#p288593).
+* Use clean SEO friendly categories URL's - [jakob's tip](http://forum.textpattern.com/viewtopic.php?pid=301000#p301000).
+* Use clean SEO friendly images URL's - [maniqui's tip](http://forum.textpattern.com/viewtopic.php?pid=288593#p288593).
 
 ## Search
 
@@ -120,4 +120,4 @@ Answers are plugins or tips.
 
 ## Variables
 
-* Manage variables via the admin interface - [adi_variables](http://www.greatoceanmedia.com.au/txp/?plugin=adi_variables), [rah_flat](https://github.com/NicolasGraph/rah_flat).
+* Manage Txp variables via the admin interface - [adi_variables](http://www.greatoceanmedia.com.au/txp/?plugin=adi_variables), [rah_flat](https://github.com/NicolasGraph/rah_flat).
