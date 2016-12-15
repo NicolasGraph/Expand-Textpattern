@@ -68,8 +68,9 @@ Textpattern tips and plugins for your needs.
 
 ## Images
 
-* Enhance article images management -  [smd_imagery](https://github.com/Bloke/smd_imagery).
+* Enhance article images management - [smd_imagery](https://github.com/Bloke/smd_imagery).
 * Manage multiple image thumbnails - [smd_thumbnail](https://github.com/Bloke/smd_thumbnail).
+* Share an image folder between two Textpattern install - [Dragondz'tip](http://forum.textpattern.com/viewtopic.php?pid=302932#p302932).
 * Use clean SEO friendly images URL's -  [maniqui's tip](http://forum.textpattern.com/viewtopic.php?pid=288593#p288593).
 * Use Textile in image captions -  [upm_textile](http://forum.textpattern.com/viewtopic.php?id=17160), [smd_wrap](http://stefdawson.com/sw/plugins/smd_wrap)
 
