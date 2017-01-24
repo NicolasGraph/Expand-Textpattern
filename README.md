@@ -103,6 +103,7 @@ Textpattern tips and plugins for your needs.
 ## SEO
 
 * Adds more Metadatas - [arc_meta](https://github.com/drmonkeyninja/arc_meta).
+* Use JSON-LD script - [Pat64's scripts](https://github.com/cara-tm/JSON-LD).
 * Use clean SEO friendly categories URL's - [jakob's tip](http://forum.textpattern.com/viewtopic.php?pid=301000#p301000).
 * Use clean SEO friendly images URL's - [maniqui's tip](http://forum.textpattern.com/viewtopic.php?pid=288593#p288593).
 
