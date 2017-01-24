@@ -25,7 +25,7 @@ Textpattern tips and plugins for your needs.
 
 ## Articles
 
-* Display a popular articles list - [smd_lately](http://stefdawson.com/sw/plugins/smd_lately).
+* Display a popular articles list - [smd_lately](http://stefdawson.com/sw/plugins/smd_lately), [etc's tip](http://forum.textpattern.com/viewtopic.php?pid=303664#p303664).
 * Display the last viewed article(s) - [oui_cookie](https://github.com/nicolasGraph/oui_cookie), [smd_lately](http://stefdawson.com/sw/plugins/smd_lately).
 * Manage and display featured articles - [smd_featured](http://stefdawson.com/sw/plugins/smd_featured).
 * Sort articles from the frontend - [oui_cookie](https://github.com/nicolasGraph/oui_cookie).
