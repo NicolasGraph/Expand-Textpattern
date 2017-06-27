@@ -51,7 +51,7 @@ Textpattern tips and plugins for your needs.
 ## Dev
 
 * Create custom virtual Txp tags -  [smd_macro](https://github.com/Bloke/smd_macro).
-* Manipulate Txp pages names -  [oui_page](https://github.com/nicolasGraph/oui_page).
+* Manipulate Txp pages names -  [oui_section_page](https://github.com/nicolasGraph/oui_section_page).
 * Test any condition -  [smd_if](http://stefdawson.com/sw/plugins/smd_if).
 
 ## Embedding
