@@ -15,7 +15,7 @@ Textpattern tips and plugins for your needs.
 * [Links](#links)
 * [Pagination](#pagination)
 * [Performances](#performances)
-* [Plugin dev](#plugin dev)
+* [Plugin dev](#plugin-dev)
 * [Social](#social)
 * [SEO](#seo)
 * [Search](#search)
